@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I enjoy solving problems with data and exploring s
   Analyzed Netflix dataset using **SQL** to find insights on genres, release trends, and content distribution.  
   *Skills:* SQL Queries | Joins | Aggregations | Data Cleaning  
 
-- [🛒 Blinkit Sales Analysis (Python)](https://github.com/your-username/blinkit-analysis)  
+- [🛒 Blinkit Sales Analysis (Python)]https://github.com/konetipavankalyan626/Blinkit_Analysis_Python-Project  
   Performed sales and customer behavior analysis using **Python (Pandas, Matplotlib)** to identify key business insights.  
   *Skills:* Python | Pandas | Data Visualization | Exploratory Data Analysis  
 
