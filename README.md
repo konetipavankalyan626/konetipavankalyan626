@@ -36,4 +36,4 @@ Welcome to my GitHub profile! I enjoy solving problems with data and exploring s
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/pavankalyan585/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//pavankalyan585/)
