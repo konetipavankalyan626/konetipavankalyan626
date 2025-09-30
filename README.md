@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I enjoy solving problems with data and exploring s
 
 - ## 🚀 Projects
 
-- [🎬 Netflix Analysis (SQL)](https://github.com/your-username/netflix-sql-analysis)  
+- [🎬 Netflix Analysis (SQL)]https://github.com/konetipavankalyan626/netflix_sql_project  
   Analyzed Netflix dataset using **SQL** to find insights on genres, release trends, and content distribution.  
   *Skills:* SQL Queries | Joins | Aggregations | Data Cleaning  
 
