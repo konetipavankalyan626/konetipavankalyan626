@@ -37,3 +37,5 @@ Welcome to my GitHub profile! I enjoy solving problems with data and exploring s
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//pavankalyan585/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:konetipavankalyan225@gmail.com)
