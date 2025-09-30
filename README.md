@@ -1,6 +1,6 @@
 # Hey there, I'm so glad you're here!
 
-# Hi there, I'm Pavan Kalyan Koneti👋
+ Hi there, I'm Pavan Kalyan Koneti👋
 
 🎓 B.Tech Graduate | 📊 Aspiring Data Analyst | 🎬 Cinema Enthusiast  
 Welcome to my GitHub profile! I enjoy solving problems with data and exploring storytelling through projects & films.  
