@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I'm Pavan 👋  
 
-<!--
-**konetipavankalyan626/konetipavankalyan626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate | 📊 Aspiring Data Analyst | 🎬 Cinema Enthusiast  
+Welcome to my GitHub profile! I enjoy solving problems with data and exploring storytelling through projects & films.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 Completed B.Tech from KSRM College of Engineering  
+- 📊 Passionate about **Data Analytics** (Excel, SQL, Power BI, Python)  
+- 📈 Building real-world projects to sharpen my analytical skills  
+- 🎥 Interested in cinema & short films alongside my tech journey  
+- 🚀 Focused on becoming a skilled Data Analyst  
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** Python, SQL  
+- **Data Tools:** Power BI, Excel
