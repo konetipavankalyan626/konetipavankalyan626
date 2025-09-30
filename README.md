@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I enjoy solving problems with data and exploring s
   Performed sales and customer behavior analysis using **Python (Pandas, Matplotlib)** to identify key business insights.  
   *Skills:* Python | Pandas | Data Visualization | Exploratory Data Analysis  
 
-- [🏥 Hospital Emergency Room Dashboard (Power BI)](https://github.com/your-username/hospital-er-dashboard)  
+- [🏥 Hospital Emergency Room Dashboard (Power BI)]https://github.com/konetipavankalyan626/hospital-emergency-room-dashboard  
   Designed an interactive **Power BI dashboard** to monitor patient inflow, wait times, and emergency room efficiency.  
   *Skills:* Power BI | Data Visualization | DAX | Dashboard Design  
 
