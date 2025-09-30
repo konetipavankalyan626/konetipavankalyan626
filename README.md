@@ -19,3 +19,18 @@ Welcome to my GitHub profile! I enjoy solving problems with data and exploring s
 ## 🛠️ Skills & Tools
 - **Languages:** Python, SQL  
 - **Data Tools:** Power BI, Excel
+
+- ## 🚀 Projects
+
+- [🎬 Netflix Analysis (SQL)](https://github.com/your-username/netflix-sql-analysis)  
+  Analyzed Netflix dataset using **SQL** to find insights on genres, release trends, and content distribution.  
+  *Skills:* SQL Queries | Joins | Aggregations | Data Cleaning  
+
+- [🛒 Blinkit Sales Analysis (Python)](https://github.com/your-username/blinkit-analysis)  
+  Performed sales and customer behavior analysis using **Python (Pandas, Matplotlib)** to identify key business insights.  
+  *Skills:* Python | Pandas | Data Visualization | Exploratory Data Analysis  
+
+- [🏥 Hospital Emergency Room Dashboard (Power BI)](https://github.com/your-username/hospital-er-dashboard)  
+  Designed an interactive **Power BI dashboard** to monitor patient inflow, wait times, and emergency room efficiency.  
+  *Skills:* Power BI | Data Visualization | DAX | Dashboard Design  
+
