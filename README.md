@@ -34,3 +34,6 @@ Welcome to my GitHub profile! I enjoy solving problems with data and exploring s
   Designed an interactive **Power BI dashboard** to monitor patient inflow, wait times, and emergency room efficiency.  
   *Skills:* Power BI | Data Visualization | DAX | Dashboard Design  
 
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
